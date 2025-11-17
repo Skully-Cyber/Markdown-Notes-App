@@ -1,2 +1,2 @@
-# Markdown-Notes-App
-Simple markdown notes app for daily tasks.
+# Markdown Notes Template
+Starter template for taking notes.
